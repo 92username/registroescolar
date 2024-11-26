@@ -49,3 +49,11 @@ Digite a 3ª nota do aluno João:
 9.0
 A média do aluno João é: 8.17
 ```
+
+## Informações Adicionais
+
+Este projeto faz parte do aprendizado na escola de informática Alura.  Para mais informaçoes [visite o site da Alura](https://www.alura.com.br) .
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT - Veja o arquivo LICENSE para mais detalhes.
