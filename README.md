@@ -1,5 +1,8 @@
 # Registro Escolar
 
+![Tela inicial do programa](/assets/telaRunningApp.png)
+![Exemplo de registro de notas](/assets/finalScreen.png)
+
 Um programa simples em Dart para registrar alunos e suas notas, calculando a média final.
 
 ## Funcionalidades
@@ -30,7 +33,7 @@ dart run bin/registroescolar.dart
 ## Como usar
 
 1. Digite o nome do aluno quando solicitado
-2. Informe quantas notas serão registradas para o aluno
+2. Informe as três notas que serão registradas para o aluno
 3. Digite cada nota quando solicitado
 4. Para encerrar o programa, digite 'fim' quando perguntado sobre a quantidade de notas
 
@@ -39,7 +42,7 @@ dart run bin/registroescolar.dart
 ```
 Digite o nome do aluno:
 João
-Quantas notas o aluno João terá? (Ou digite "fim" para encerrar o programa)
+Digite a 1ª nota do aluno João (ou "fim" para encerrar):
 3
 Digite a 1ª nota do aluno João:
 8.5
@@ -52,7 +55,9 @@ A média do aluno João é: 8.17
 
 ## Informações Adicionais
 
-Este projeto faz parte do aprendizado na escola de informática Alura.  Para mais informaçoes [visite o site da Alura](https://www.alura.com.br) .
+Este projeto faz parte do aprendizado na escola de informática Alura.  É o 
+exercício final do primeiro modulo de Dart.
+Para mais informaçoes [visite o site da Alura](https://www.alura.com.br) .
 
 ## Licença
 
